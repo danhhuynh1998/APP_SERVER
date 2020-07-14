@@ -1,0 +1,37 @@
+[
+    {
+        "name":"ns=1;s=\"ALARM_LEVEL\".\"cb_max_bon_5\"",
+        "chanel":"message83",
+        "socketon":"cb_max_bon_5"
+    },
+    {
+        "name":"ns=1;s=\"ALARM_LEVEL\".\"cb_min_bon_5\"",
+        "chanel":"message90",
+        "socketon":"cb_min_bon_5"
+    },
+    {
+        "name":"ns=1;s=\"STATUS_DEVICE\".\"valve_6_in\"",
+        "chanel":"message31",
+        "socketon":"valve_6_in"
+    },
+    {
+        "name":"ns=1;s=\"STATUS_DEVICE\".\"valve_5_out\"",
+        "chanel":"message38",
+        "socketon":"valve_5_out"
+    },
+    {
+        "name":"ns=1;s=\"ERROR_SYSTEM\".\"valve_6_in_error\"",
+        "chanel":"message56",
+        "socketon":"valve_6_in_error"
+    },
+    {
+        "name":"ns=1;s=\"ERROR_SYSTEM\".\"valve_5_out_error\"",
+        "chanel":"message63",
+        "socketon":"valve_5_out_error"
+    },
+    {
+        "name":"ns=1;s=\"LEVEL_TANKS\".\"bon_5\"",
+        "chanel":"message104",
+        "socketon":"bon_5"
+    }
+]
